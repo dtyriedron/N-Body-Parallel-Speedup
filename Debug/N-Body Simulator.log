@@ -1,0 +1,18 @@
+﻿  N-Body Simulator.cpp
+  Simulation.cpp
+c:\users\40203\desktop\n-body-simulator\n-body simulator\simulation.cpp(45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\40203\desktop\n-body-simulator\n-body simulator\simulation.cpp(46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  N-Body Simulator.vcxproj -> C:\Users\40203\Desktop\N-Body-Simulator\Debug\N-Body Simulator.exe

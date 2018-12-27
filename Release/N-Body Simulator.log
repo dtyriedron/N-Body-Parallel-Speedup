@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  Body.cpp
+c:\users\40203\desktop\n-body-simulator\n-body simulator\body.cpp(14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\40203\desktop\n-body-simulator\n-body simulator\body.cpp(15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\40203\desktop\n-body-simulator\n-body simulator\body.cpp(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\40203\desktop\n-body-simulator\n-body simulator\body.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  N-Body Simulator.cpp
+  Simulation.cpp
+c:\users\40203\desktop\n-body-simulator\n-body simulator\simulation.cpp(45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\40203\desktop\n-body-simulator\n-body simulator\simulation.cpp(46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+  All 273 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  N-Body Simulator.vcxproj -> C:\Users\40203\Desktop\N-Body-Simulator\Release\N-Body Simulator.exe
